@@ -16,3 +16,8 @@ None. You just need Windows and your episodes (technically wit the create_dummie
 
 ### To-Do
 If I'm bored enough, I might make Linux versions of the script but my assumption is that anyone who uses Linux can rework the windows scripts in a few minutes.
+
+
+
+
+If you feel inclined, you can tip me to say thanks: 15uwjjxvj3g1Jv8j4y8TPaMeksKQu5xgWn
